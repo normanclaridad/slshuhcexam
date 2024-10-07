@@ -18,7 +18,8 @@
 
     <link rel="stylesheet" href="<?php echo BASE_URL ?>/assets/css/parsley.css">
     <link rel="stylesheet" href="<?php echo BASE_URL ?>/assets/css/select2.css">
-
+    <link rel="stylesheet" href="<?php echo BASE_URL ?>/assets/vendors/summernote-0.9.0-dist/summernote-bs5.css">
+    
     <!-- End plugin css for this page -->
     <!-- inject:css -->
     <!-- endinject -->
